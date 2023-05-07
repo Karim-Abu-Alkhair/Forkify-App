@@ -10,7 +10,7 @@ MVC JS/SASS Recipeapplication with custom recipe uploads
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://karim-forkify.netlify.app)
+- Live Site URL: [Forkify](https://karim-forkify.netlify.app)
 
 ### Built with
 
